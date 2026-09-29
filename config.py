@@ -12,9 +12,10 @@ WEBSITE_URL = "http://www.nollywoodspotlight.org"
 BOT_USERNAME = "Nollywoodsspotlightbot"
 BOT_LINK = f"https://t.me/{BOT_USERNAME}"
 
+TELEGRAM_CHANNEL = "https://t.me/nollywoodspotlightblog1"
+TELEGRAM_GROUP   = "http://t.me/nollywoodspotlightblog"
+
 # ---------- Social links (disabled for now) ----------
-TELEGRAM_CHANNEL = ""
-TELEGRAM_GROUP   = ""
 INSTAGRAM        = ""
 TWITTER          = ""
 FACEBOOK         = ""
